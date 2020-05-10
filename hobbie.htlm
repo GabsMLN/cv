@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>my hobbie</title>
+  </head>
+  <body>
+    <h3>mes hobbies</h3>
+    <ol>
+      <li><a href="https://biere.com">biere</a></li>
+      <li>vélo</li>
+      <li>photographie</li>
+    </ol>
+
+  </body>
+</html>

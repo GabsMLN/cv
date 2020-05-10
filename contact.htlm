@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Contactez-moi !</title>
+  </head>
+  <body>
+    <h2>Mes coordonées</h2>
+    <h3>Adresse</h3>
+    <p>8 rue françois 1er 06000 Nice</p>
+    <h3>Téléphonne </h3>
+    <p>Tel : 0688830970</p>
+    <h3>Email</h3>
+    <p>contact@bullshit.com </p>
+    <hr>
+    <h3>Me contcater directement</h3>
+
+    <form  action="mailto:contact@gabrielmolino.com" method="post" enctype="text/plain">
+      <label for="">Votre email</label>
+      <input type="email" name="Email" value=""><br>
+      <label for="">Votre nom</label>
+      <input type="text" name="Nom" value=""><br>
+      <label for="">Votre message</label><br>
+    <textarea name="message" rows="4" cols="40"></textarea><br>
+      <label for="">envoyer votre photographie</label>
+      <input type="file" name="" value=""><br>
+      <label for="">Accpeter-vous les CGV</label>
+      <input type="checkbox" name="" value="">
+      <label for="">oui</label>
+      <input type="submit" name="">
+    </form>
+
+  </body>
+</html>
